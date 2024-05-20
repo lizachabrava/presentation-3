@@ -1,0 +1,247 @@
+.conteiner {
+max-width: 1500px;
+height: 800px;
+width: 95%;
+margin: 0 auto;
+
+
+    
+}
+
+.contact1 {
+margin-left: 4px;
+margin-top: 57px;
+color: #5863E3;
+font-family: Helvetica;
+font-size: 17px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+
+}
+
+.contact {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    margin-left: 144px;
+    margin-top: 84px;
+    color: #000;
+    font-family: Helvetica;
+    font-size: 49px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.inputs {
+    width: 756px;
+    height: 298px;
+    flex-shrink: 0;
+    border: 2px solid rgba(212, 211, 211, 0.30);
+    background: #F8F8F8;
+    display: flex;
+    resize: none;
+    margin-left: 144px;
+}
+
+.inputs2 {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    margin-left: 20px;
+}
+
+.submit{
+    width: 370px;
+    height: 59px;
+    flex-shrink: 0;
+    background: #5968F4;
+}
+
+.subject {
+    width: 370px;
+    height: 59px;
+    flex-shrink: 0;
+    border: 2px solid rgba(212, 211, 211, 0.30);
+    background: #F8F8F8;
+
+}
+
+.name {
+    width: 370px;
+    height: 59px;
+    flex-shrink: 0;
+    border: 2px solid rgba(212, 211, 211, 0.30);
+    background: #F8F8F8;
+
+}
+
+
+
+
+.email {
+    width: 370px;
+    height: 59px;
+    flex-shrink: 0;
+    border: 2px solid rgba(212, 211, 211, 0.30);
+    background: #F8F8F8;
+
+
+}
+
+
+.cyrcle1 {
+   background-color: #5968F4;
+   height: 68px;
+   width: 68px;
+   flex-shrink: 0;
+   border-radius: 68px;
+}
+
+.purple {
+    margin-left: 14px;
+    margin-top: 19px;
+}
+
+
+.cyrcle2 {
+    background-color: #5968F4;
+    height: 68px;
+    width: 68px;
+    flex-shrink: 0;
+    border-radius: 68px;
+ }
+ 
+ .purple2 {
+     margin-left: 10px;
+     margin-top: 13px;
+ }
+
+
+ .cyrcle3 {
+    background-color: #5968F4;
+    height: 68px;
+    width: 68px;
+    flex-shrink: 0;
+    border-radius: 68px;
+ }
+ 
+ .purple3 {
+     margin-left: 22px;
+     margin-top: 15px;
+ }
+
+ .cyrcles {
+    display: flex;
+    margin-top: 60px;
+    gap: 325px;
+    margin-left: 328px;
+ }
+
+ h4 {
+    margin-top: 25px;
+    margin-left: 6px;
+    color: #4E4D54;
+    font-family: Helvetica;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+ }
+
+ .emails {
+    display: flex;
+    flex-direction: column ;
+    color: #99999A;
+    font-family: Helvetica;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    gap: 10px;
+ }
+
+ .phones {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-top: 10px;
+    width: 200px;
+ }
+
+ .hclass {
+    margin-top: 14px;
+    margin-left: 6px;
+    color: #4E4D54;
+    font-family: Helvetica;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal
+ }
+
+ .locations {
+    color: #99999A;
+    font-family: Helvetica;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    width: 200px;
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+
+ }
+
+ .photoss {
+
+    margin-left: 166px;
+    color: #5863E3;
+    font-family: Helvetica;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+
+ }
+
+ .warwera2 {
+    display: flex;
+    flex-direction: column;
+    color: #000;
+    font-family: Helvetica;
+    font-size: 49px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-left: 164px;
+ }
+
+ .imagesss {
+  display:flex;
+  flex-direction: row;
+  gap: 100px;
+  margin-left: 61px;
+
+ }
+
+ .black {
+  width: 1440px;
+  height: 372px;
+  background-color: #000;
+  margin-top: 39px ;
+
+ }
+
+ .hotels {
+    color: #FFF;
+    font-family: Helvetica;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+
+ }
