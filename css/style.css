@@ -34,6 +34,17 @@ line-height: normal;
     line-height: normal;
 }
 
+
+.name4 {
+   display: flex;
+    flex-direction: column;
+   margin-bottom: 5px;
+}
+
+.contact4 {
+   margin-bottom: 57px;
+}
+
 .inputs {
     width: 756px;
     height: 298px;
